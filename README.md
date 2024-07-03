@@ -9,9 +9,6 @@ To install SentinelSSH, make sure you have Go installed on your system (version 
 ```bash
 go install github.com/harshinsecurity/sentinelssh/cmd/sentinelssh@latest
 ```
-
-Replace `yourusername` with the actual GitHub username where the project is hosted.
-
 ## Usage
 
 After installation, you can run SentinelSSH directly from the command line:
